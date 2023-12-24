@@ -6,7 +6,7 @@ This Anki plugin lets you quickly insert Unicode symbols into cards by typing a 
 
 ### Getting Started:
 ----
-1. Install the plugin from [AnkiWeb](https://ankiweb.net/shared/info/2040501954) (plugin ID: 2040501954).
+1. Install the plugin from [AnkiWeb](https://ankiweb.net/shared/info/2088399109) (plugin ID: 2088399109).
 2. For a list of available symbols, open the Options window (see below) or refer to the [list of default symbols](https://github.com/jefdongus/insert-symbols-anki-addon/wiki/List-of-Default-Symbols).
 
 
